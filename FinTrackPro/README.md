@@ -1,0 +1,2 @@
+# FinTrack Pro
+Project initialization.
